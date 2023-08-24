@@ -23,3 +23,4 @@ Leading Retailers and Multichannel Presence: Foot Locker, Sports Direct, and Wes
 This analysis, conducted through a business analyst lens, underscores the significance of data-driven decision-making in optimizing Adidas' sales strategies. Strategic implications include further capitalizing on successful categories, aligning marketing efforts with seasonal trends, targeting regions with untapped potential, tailoring sales channels to maximize profitability, and leveraging multichannel retailing to enhance customer engagement and sales. By embracing these insights, Adidas can navigate market dynamics more effectively and achieve sustainable growth.
 
 
+Data Source: Kaggle (Added the Dataset - Excel file for reference)
